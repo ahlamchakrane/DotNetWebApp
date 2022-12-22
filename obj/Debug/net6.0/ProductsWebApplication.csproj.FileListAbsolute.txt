@@ -1,0 +1,86 @@
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/bin/Debug/net6.0/appsettings.Development.json
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/bin/Debug/net6.0/appsettings.json
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/bin/Debug/net6.0/ProductsWebApplication
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/bin/Debug/net6.0/ProductsWebApplication.dll
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/bin/Debug/net6.0/ProductsWebApplication.pdb
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.csproj.AssemblyReference.cache
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.AssemblyInfoInputs.cache
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.AssemblyInfo.cs
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.csproj.CoreCompileInputs.cache
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.MvcApplicationPartsAssemblyInfo.cs
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/scopedcss/bundle/ProductsWebApplication.styles.css
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.dll
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/refint/ProductsWebApplication.dll
+/Users/yassine/Library/CloudStorage/GoogleDrive-y.lafryhi@gmail.com/My Drive/GitHub/MyFifthSemesterAtGlsid/NETT/ProductsWebApplication/obj/Debug/net6.0/ProductsWebApplication.pdb
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\ProductsWebApplication.exe
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\ProductsWebApplication.deps.json
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\ProductsWebApplication.runtimeconfig.json
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\ProductsWebApplication.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\ProductsWebApplication.pdb
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.csproj.AssemblyReference.cache
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\scopedcss\bundle\ProductsWebApplication.styles.css
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.csproj.CopyComplete
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\refint\ProductsWebApplication.dll
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.pdb
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ProductsWebApplication.genruntimeconfig.cache
+C:\Users\Ahlam\Desktop\ConsoleApp\ProductsWebApplication\ProductsWebApplication\obj\Debug\net6.0\ref\ProductsWebApplication.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\ProductsWebApplication.exe
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\ProductsWebApplication.deps.json
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\ProductsWebApplication.runtimeconfig.json
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\ProductsWebApplication.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\ProductsWebApplication.pdb
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.csproj.AssemblyReference.cache
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.AssemblyInfoInputs.cache
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.AssemblyInfo.cs
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\bundle\ProductsWebApplication.styles.css
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.csproj.CopyComplete
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\refint\ProductsWebApplication.dll
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.pdb
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ProductsWebApplication.genruntimeconfig.cache
+C:\Users\Ahlam\IdeaProjects\DotNet\EnsetDN\AhlamChakrane\ConsoleApp\WebAPI\WebAPI\obj\Debug\net6.0\ref\ProductsWebApplication.dll
